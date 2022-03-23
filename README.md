@@ -19,7 +19,7 @@
   
   
 ---
-### 🛠 &nbsp;Languages and Tools
+### 🛠&nbsp;&nbsp;Languages and Tools
 <div>
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
@@ -39,7 +39,7 @@
   
   
   ---
-  ### :fire: My Stats
+  ### :fire:&nbsp;&nbsp;My Stats
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=t1nkl&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
