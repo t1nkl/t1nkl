@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hi there
+    Hey There!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
@@ -21,26 +21,17 @@
 ---
 ### 🛠&nbsp;&nbsp;Languages and Tools
 <div>
-  <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="DigitalOcean" alt="DigitalOcean" width="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" title="PHPStorm" alt="PHPStorm" width="40"/>&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=php,laravel,postgresql,mysql,mongodb,redis,git,nginx,docker,kubernetes,aws,gitlab,vue,ts" />
+    </a>
   </p>
-  
+</div>
   
   
   ---
   ### :fire:&nbsp;&nbsp;My Stats
-  
+<div>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=t1nkl&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t1nkl&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
